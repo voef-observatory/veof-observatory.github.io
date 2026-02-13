@@ -64,6 +64,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2018**
 
+- **Le Van C.**, Nguyen A.N., Nguyen N.-M., Simioni M. (2018), Growth strategy with social capital, human capital and physical capital-Theory and evidence: The case of Vietnam. *Journal of Public Economic Theory*, 20, 768-787. https://doi.org/10.1111/jpet.12305 
 - Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2018). Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints, *Journal of Mathematical Economics*, vol. 76, 1-20.
 - Bosi, S., Ha-Huy, T., **Le Van, C.**, Pham, C.-T., **Pham, N.-S.** (2018). Financial bubbles and capital accumulation in altruistic economies, *Journal of Mathematical Economics*, vol. 75, 125-139.
 - Thai Ha-Huy, **Cuong Le Van**, Cuong Tran-Viet (2018), Arbitrage and equilibrium in economies with short-selling and ambiguity, *Journal of Mathematical Economics*, Volume 76, Pages 95-100. https://doi.org/10.1016/j.jmateco.2018.01.004
@@ -76,7 +77,14 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2016**
 
+- Stefano Bosi, Patrice Fontaine, **Cuong Le Van** (2016), Interest rates parity and no arbitrage as equivalent equilibrium conditions in the international financial assets and goods markets, *Mathematical Social Sciences*, Volume 82, Pages 26-36. https://doi.org/10.1016/j.mathsocsci.2016.04.002
 - **Le Van, C.**, **Pham, N.-S.** (2016). Intertemporal equilibrium with financial asset and physical capital. *Economic Theory*, vol. 62, 155-199.
+- **Le Van, C.**, Saglam, Ç., Turan, A. (2016), Optimal Growth Strategy under Dynamic Threshold. *Journal of Public Economic Theory*, 18, 979-991. https://doi.org/10.1111/jpet.12167
+- Thanh Le, **Cuong Le Van** (2016), Transitional dynamics in an R&D-based growth model with natural resources, *Mathematical Social Sciences*, Volume 82, Pages 1-17. https://doi.org/10.1016/j.mathsocsci.2016.04.001
+
+**2015**
+
+- Becker, R., Bosi, S., **Le Van, C.**, Seegmuller T. (2015), On existence and bubbles of Ramsey equilibrium with borrowing constraints, *Economic Theory*, 58, 329–353. https://doi.org/10.1007/s00199-014-0810-6
 
 **2014**
 
@@ -89,22 +97,43 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2010**
 
+- **Cuong Le Van**, Katheline Schubert, Tu Anh Nguyen (2010), With exhaustible resources, can a developing country escape from the poverty trap?, *Journal of Economic Theory*, Volume 145, Issue 6, Pages 2435-2447. https://doi.org/10.1016/j.jet.2010.07.005
+- R.A. Dana, **C. Le Van** (2010), Overlapping risk adjusted sets of priors and the existence of efficient allocations and equilibria with short-selling, *Journal of Economic Theory*, Volume 145, Issue 6, Pages 2186-2202. https://doi.org/10.1016/j.jet.2010.08.002
 - **Nguyen-Van P.** (2010), "Energy consumption and income: A semiparametric panel data analysis", *Energy Economics* 32, 557-563.
+
+**2009**
+
+- Hung, N.M., **C. Le Van**, P. Michel (2009). "Non-convex aggregate technology and optimal economic growth," *Economic Theory*, vol. 40(3), pages 457-471.
+
+**2008**
+
+- Allouch, Nizar, **Le Van, Cuong** (2008) "Walras and dividends equilibrium with possibly satiated consumers," *Journal of Mathematical Economics*, vol. 44(9-10), pages 907-918.
+- Hippolyte d’Albis, Pascal Gourdel, **Cuong Le Van** (2008). "Existence of solutions in continuous-time optimal growth models," *Economic Theory*, vol. 37(2), pages 321-333.
 
 **2007**
 
+- **Le Van, Cuong**, Minh, Nguyen Ba (2007). "No-arbitrage condition and existence of equilibrium with dividends," *Journal of Mathematical Economics*, vol. 43(2), pages 135-152.
+- **Cuong Le Van**, Raouf Boucekkine, Cagri Saglam (2007). "Optimal Control in Infinite Horizon Problems: A Sobolev Space Approach," *Economic Theory*, vol. 32(3), pages 497-509.
+- **Cuong Le Van**, Frank Page, Myrna Wooders (2007). "Risky arbitrage, asset prices, and externalities," *Economic Theory*, vol. 33(3), pages 475-491.
+- **Le Van, Cuong**, Mitra, Tapan, Nishimura, Kazuo, Venditti, Alain (2007). "Instability and fluctuations in intertemporal equilibrium models: Presentation," *Journal of Mathematical Economics*, vol. 43(3-4), pages 231-235.
+- **Le Van, Cuong**, Nguyen, Manh-Hung, Vailakis, Yiannis (2007). "Equilibrium dynamics in an aggregative model of capital accumulation with heterogeneous agents and elastic labor," *Journal of Mathematical Economics*, vol. 43(3-4), pages 287-317.
 - **Nguyen-Van P.**, Azomahou T. (2007), "Nonlinearities and heterogeneity in environmental quality: An empirical analysis of deforestation", *Journal of Development Economics*, 84(1), 291-309.
 
 **2006**
 
+- d'Albis, Hippolyte, **Le Van, Cuong** (2006). "Existence of a competitive equilibrium in the Lucas (1988) model without physical capital," *Journal of Mathematical Economics*, vol. 42(1), pages 46-55.
+- Allouch, Nizar & **Le Van, Cuong** & Page, Frank Jr. (2006). "Arbitrage and equilibrium in unbounded exchange economies with satiation," *Journal of Mathematical Economics*, vol. 42(6), pages 661-674.
 - Azomahou T., Laisney F., **Nguyen-Van P.** (2006), "Economic development and CO2 emissions: A nonparametric panel approach", *Journal of Public Economics* 90(6-7), 1347-1363.
+- **Cuong Le Van** & Cécile Couharde & Thai Bao Luong (2006). "The Determination of the Equilibrium Exchange Rate in a Simple General Equilibrium Model," *Review of Development Economics*, vol. 10(3), pages 506-517.
 
 **2005**
 
+- **Le Van, Cuong** & Vailakis, Yiannis (2005). "Recursive utility and optimal growth with bounded or unbounded returns," *Journal of Economic Theory*, vol. 123(2), pages 187-209.
 - **Nguyen-Van P.** (2005), "Distribution dynamics of CO2 emissions", *Environmental and Resource Economics* 32(4), 495-508.
 
 **2004**
 
+- **Le Van, Cuong** & Cagri Saglam, H. (2004). "Optimal growth models and the Lagrange multiplier," *Journal of Mathematical Economics*, vol. 40(3-4), pages 393-410.
 - **Nguyen-Van P.**, Laisney F., Kaiser U. (2004), "The performance of German firms in the business-related services sectors: A dynamic analysis", *Journal of Business and Economic Statistics* 22(3), 274-295.
 - Cochard F., **Nguyen-Van P.**, Willinger M. (2004), "Trusting behavior in a repeated investment game", *Journal of Economic Behavior and Organization* 55(1), 31-44.
 
