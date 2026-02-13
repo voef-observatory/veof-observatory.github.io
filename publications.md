@@ -16,7 +16,8 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 - Boun My K., Nguyen-Quang H., **Nguyen-Van P.**, **Pham T.K.C.**, Stenger A., Tiet T., To-The N. (2025), "Farmers’ preferences toward organic certification scheme: Evidence from a discrete choice experiment in Northern Vietnam", *World Development Sustainability*, Volume 6, 100203. https://doi.org/10.1016/j.wds.2025.100203
 - Stefano Bosi, **Cuong Le Van**, Giang Phung (2025), Economic growth with brown or green capital, *Journal of Mathematical Economics*, Volume 117, 103101. https://doi.org/10.1016/j.jmateco.2025.103101.
-- 
+- Le, T. T. L., & **Nguyen-Huu, T. T.** (2025). Like a multicolored puzzle: decomposing temporary–permanent wage gap in Vietnam. *Applied Economics*, 1–16. https://doi.org/10.1080/00036846.2025.2594179
+- **Nguyen-Huu, T. T.**, & Hoang, H. H. (2025). Foreign direct investment in Vietnam: how local institutions matter? *Post-Communist Economies*, 37(7), 789-814. https://doi.org/10.1080/14631377.2025.2493511
 
 **2024**
 
@@ -81,10 +82,12 @@ This page highlights selected academic publications by members of the **Vietnam 
 - **Le Van, C.**, **Pham, N.-S.** (2016). Intertemporal equilibrium with financial asset and physical capital. *Economic Theory*, vol. 62, 155-199.
 - **Le Van, C.**, Saglam, Ç., Turan, A. (2016), Optimal Growth Strategy under Dynamic Threshold. *Journal of Public Economic Theory*, 18, 979-991. https://doi.org/10.1111/jpet.12167
 - Thanh Le, **Cuong Le Van** (2016), Transitional dynamics in an R&D-based growth model with natural resources, *Mathematical Social Sciences*, Volume 82, Pages 1-17. https://doi.org/10.1016/j.mathsocsci.2016.04.001
+- Nguyen M.-H., **Nguyen-Van P.** (2016), "Optimal endogenous growth with natural resources: Theory and evidence", *Macroeconomic Dynamics* 20(8), 2173-2209.
 
 **2015**
 
 - Becker, R., Bosi, S., **Le Van, C.**, Seegmuller T. (2015), On existence and bubbles of Ramsey equilibrium with borrowing constraints, *Economic Theory*, 58, 329–353. https://doi.org/10.1007/s00199-014-0810-6
+- Mothe C., Nguyen Thi T.U., **Nguyen-Van P.** (2015), "Assessing complementarity in organizational innovations for technological innovation: The role of knowledge management practices", *Applied Economics* 47(29), 3040-3058.
 
 **2014**
 
@@ -94,6 +97,10 @@ This page highlights selected academic publications by members of the **Vietnam 
 **2013**
 
 - **Nguyen-Van P.**, **Pham T.K.C.** (2013), "Endogenous fiscal policies, environmental quality, and status-seeking behavior", *Ecological Economics* 88, 32-40.
+
+**2012**
+
+- Goenka, Aditya & **Le Van, Cuong** & Nguyen, Manh-Hung (2012). "Existence Of Competitive Equilibrium In An Optimal Growth Model With Heterogeneous Agents And Endogenous Leisure," *Macroeconomic Dynamics*, vol. 16(S1), pages 33-51.
 
 **2010**
 
