@@ -1,8 +1,4 @@
----
-layout: page
-title: Selected Publications
-permalink: /index/
----
+# Vietnam Observatory on Economics and Finance (VOEF)
 
 *Advancing economic and financial research by Vietnam‑focused economists*
 
