@@ -1,7 +1,15 @@
-.site-header {
-  background-color: #002b5c;
+@import "minima";
+
+/* Couleur des titres */
+h1 {
+  color: #002b5c;
 }
 
+h2 {
+  color: #003f88;
+}
+
+/* Couleur du titre principal en haut */
 .site-title {
-  color: white;
+  color: #002b5c;
 }
