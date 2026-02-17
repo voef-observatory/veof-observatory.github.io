@@ -3,12 +3,7 @@
 
 @import "minima";
 
-.site-header {
-  position: relative;
-  background: url("/assets/images/VOEF-logo-rouge.png") center/cover no-repeat !important;
-  height: 250px;
-}
-
-.site-title {
-  color: white !important;
+/* TEST UNIQUE */
+body {
+  background-color: #ff0000 !important;
 }
