@@ -1,13 +1,3 @@
----
----
-
-@import "minima";
-body {
-  background-color: red !important;
-}
-
----
-
 *Advancing economic and financial research by Vietnam‑focused economists*
 
 ---
