@@ -3,16 +3,9 @@
 
 @import "minima";
 
-body {
-  background-color: red !important;
-}
-
 .site-header {
-  background-image: url("/assets/images/VOEF-logo-rouge.png");
-  background-size: cover;
-  background-position: center;
-  height: 240px;
-  position: relative;
+  background: url("/assets/images/VOEF-logo-rouge.png") center/cover no-repeat !important;
+  height: 250px;
 }
 
 .site-header::after {
