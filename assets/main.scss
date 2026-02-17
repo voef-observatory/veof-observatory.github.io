@@ -2,7 +2,32 @@
 ---
 
 @import "minima";
-.site-header {
-  background: url("/assets/images/VOEF-logo-rouge.png") center/contain no-repeat;
-  height: 200px;
+
+.site-header .wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Bloc gauche : titre + menu vertical */
+.site-header .wrapper > div:first-child {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Navigation en colonne */
+.site-nav {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+/* Logo à droite */
+.site-header .wrapper::after {
+  content: "";
+  display: block;
+  background: url("/assets/images/VOEF-logo-rouge.png") no-repeat center;
+  background-size: contain;
+  width: 180px;
+  height: 120px;
 }
