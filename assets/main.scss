@@ -24,12 +24,12 @@
 /* Dans Minima, .site-title EST le lien */
 .site-title {
   flex: 0 0 50%;            /* moitié gauche */
-  height: 160px;
+  height: 320px;
 
   background-image: url("{{ '/assets/images/Obs-logo-green.png' | relative_url }}");
   background-repeat: no-repeat;
   background-position: left center;
-  background-size: contain;
+  background-size: contain; /* 80%; */
 
   text-indent: -9999px;      /* cache le texte */
   overflow: hidden;
