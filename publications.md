@@ -38,6 +38,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 - Guillaumont P., **Nguyen-Van P.**, **Pham T.K.C.**, Wagner L. (2023), "Equal opportunity and poverty reduction: How should aid be allocated?", Review of Development Economics, 27(1), 550-607.
 - **Cuong Le Van**, **Ngoc-Sang Pham**, **Thi Kim Cuong Pham** (2023), Effects of development aid (grants and loans) on the economic dynamics of the recipient country, *Mathematical Social Sciences*, Volume 125, Pages 101-112. https://doi.org/10.1016/j.mathsocsci.2023.06.003.
+- **Pham, N.-S.** (2023). Intertemporal equilibrium with physical capital and financial asset: role of dividend taxation, *Mathematical Social Sciences*, vol. 123, 95-104.
 
 **2022**
 
@@ -59,8 +60,9 @@ This page highlights selected academic publications by members of the **Vietnam 
 - My Dam, Thai Ha-Huy, **Cuong Le Van**, Thi Tuyet Mai Nguyen (2020), Economic dynamics with renewable resources and pollution, *Mathematical Social Sciences*, Volume 108, Pages 14-26. https://doi.org/10.1016/j.mathsocsci.2020.08.002
 - Dubois D., Farolfi S., **Nguyen-Van P.**, Rouchier J. (2020), "Contrasting effects of information sharing on CPR extraction behaviour: Experimental findings", *PLOS ONE*, 15(10): e0240212.
 - Lampach N., **Nguyen-Van P.**, To-The N. (2020), "Robustness analysis of organic technology adoption: Evidence from Northern Vietnamese tea production", *European Review of Agricultural Economics*, 47(2), 529-557.
-- **Pham, N.-S.**, **Pham, T.K.C.** (2020). Effects of foreign aid on the recipient country’s economic growth, *Journal of Mathematical Economics*, Vol. 86, 52-68.
+- **Le Van, C.**, **Pham, N.-S.** (2020). Demand and equilibrium with inferior and Giffen behaviors, *Mathematical Social Sciences*, vol. 103, 45-50.
 - Lawson L.A., **Nguyen-Van P.** (2020), "Is a peaceful cohabitation between living species possible? An empirical analysis on the drivers of threatened species", *Global Ecology and Conservation*, 23, e01043.
+- **Pham, N.-S.**, **Pham, T.K.C.** (2020). Effects of foreign aid on the recipient country’s economic growth, *Journal of Mathematical Economics*, Vol. 86, 52-68.
 
 **2019**
 
@@ -72,10 +74,11 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2018**
 
-- **Le Van C.**, Nguyen A.N., Nguyen N.-M., Simioni M. (2018), Growth strategy with social capital, human capital and physical capital-Theory and evidence: The case of Vietnam. *Journal of Public Economic Theory*, 20, 768-787. https://doi.org/10.1111/jpet.12305 
 - Bosi, S., **Le Van, C.**, **Pham, N.-S.** (2018). Intertemporal equilibrium with heterogeneous agents, endogenous dividends and collateral constraints, *Journal of Mathematical Economics*, vol. 76, 1-20.
 - Bosi, S., Ha-Huy, T., **Le Van, C.**, Pham, C.-T., **Pham, N.-S.** (2018). Financial bubbles and capital accumulation in altruistic economies, *Journal of Mathematical Economics*, vol. 75, 125-139.
 - Thai Ha-Huy, **Cuong Le Van**, Cuong Tran-Viet (2018), Arbitrage and equilibrium in economies with short-selling and ambiguity, *Journal of Mathematical Economics*, Volume 76, Pages 95-100. https://doi.org/10.1016/j.jmateco.2018.01.004
+- **Le Van C.**, Nguyen A.N., Nguyen N.-M., Simioni M. (2018), Growth strategy with social capital, human capital and physical capital-Theory and evidence: The case of Vietnam. *Journal of Public Economic Theory*, 20, 768-787. https://doi.org/10.1111/jpet.12305 
+- **Nguyen-Huu, T.T.**, **Pham N.-S.** (2018). Should the host country invest in a new industry?. *Revue Economique*, vol. 69, 29-65.
 
 **2017**
 
@@ -93,6 +96,7 @@ This page highlights selected academic publications by members of the **Vietnam 
 
 **2015**
 
+- Acurio-Vasconez, V., Giraud, G.,  Mc Isaac, F., **Pham, N.-S.** (2015). The Effects of Oil Price Shocks in a New-Keynesian Framework with Capital Accumulation. *Energy Policy*, vol. 86, 844–854.
 - Becker, R., Bosi, S., **Le Van, C.**, Seegmuller T. (2015), On existence and bubbles of Ramsey equilibrium with borrowing constraints, *Economic Theory*, 58, 329–353. https://doi.org/10.1007/s00199-014-0810-6
 - Mothe C., Nguyen Thi T.U., **Nguyen-Van P.** (2015), "Assessing complementarity in organizational innovations for technological innovation: The role of knowledge management practices", *Applied Economics* 47(29), 3040-3058.
 
