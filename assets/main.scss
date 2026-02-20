@@ -74,10 +74,6 @@
 }
 
 /* ============================= */
-/* ===== FOOTER PERSONNALISÉ === */
-/* ============================= */
-
-/* ============================= */
 /* ===== FOOTER ACADÉMIQUE ===== */
 /* ============================= */
 
@@ -104,9 +100,9 @@
   border-top: 1px solid #e5e5e5;
 }
 
-/* Texte */
+/* Texte institutionnel */
 .site-footer::after {
-  content: "© " attr(data-year) " Vietnam Observatory on Economics and Finance (VOEF)";
+  content: "© 2026 Vietnam Observatory on Economics and Finance (VOEF)";
   display: block;
   font-size: 12px;
   letter-spacing: 0.5px;
