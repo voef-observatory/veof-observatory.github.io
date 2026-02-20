@@ -1,7 +1,9 @@
 ---
 layout: home
-title: home
+title: Home
 ---
+
+<h1 class="home-title">Vietnam Observatory on Economics and Finance</h1>
 
 *Advancing economic and financial research by Vietnam‑focused economists*
 
