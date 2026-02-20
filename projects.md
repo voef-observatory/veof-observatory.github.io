@@ -12,7 +12,6 @@ permalink: /projects/
 - "Resilience-after-crisis in risk, time and social preferences: a behavioral economics study with a focus on cooperativeness (RESPIRE)", ANR RESILIENCE-COVID-19, 2021-2022. (**Nguyen Van Phu**, member)
 - "Observance et observation des mesures barrières et du confinement: une approche d'économie comportementale" (CONFINOBS), ANR Flash Coronavirus, 2020-2021. (**Nguyen Van Phu**, member)
 
----
 # Consultancy Projects
 
 - "Dedicated Policy Framework for Investment and Development of Sustainable Energy Infrastructure in Vietnam", Vietnam and Global Social Economies Institute, United Nations/UNOPS, 2024-2025. (**Nguyen Van Phu**, co-PI)
